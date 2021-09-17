@@ -21,3 +21,7 @@ print(mybag[:4])  #['book','copy','pen','bottle']
 
 #takes value from start index to last index of list
 print(mybag[2:])  #['pen','bottle','lunchbox']
+
+
+#negative indexing
+print(mybag[-3:-1])  #['pen','bottle'
