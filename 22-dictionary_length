@@ -1,0 +1,6 @@
+#Dictionary length
+mydict={
+"name":"John",
+"age":21
+}
+print(len(mydict)) #22
